@@ -1,0 +1,21 @@
+.text{
+    color: red;
+}
+#one{
+    color: green;
+}
+#two{
+    color: purple ;
+}
+#three{
+    color: blue;
+}
+#four{
+    color: orangered;
+}
+.main-text{
+    color: black;
+}
+.last-text{
+    color: blueviolet;
+}
